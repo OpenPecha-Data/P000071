@@ -1,4 +1,6 @@
-ebook_metadata:
+id: P000071
+initial_creation_type: ebook
+source_metadata:
   title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
   authors:
   - 1. བྱང་ཆུབ་ལམ་གྱི་སྒྲོན་མའི་འགྲེལ་པ་བྱང་ཆུབ་ལམ་གྱི་སྣང་བ་རབ་ཏུ་གསལ་བ།
@@ -6,7 +8,6 @@ ebook_metadata:
   - 3. ཤེས་བྱ་ཀུན་ཁྱབ་མཛོད་ལས་བློ་ལྡོག་རྣམ་བཞི་ཁོལ་དུ་ཕྱུང་བ།
   - 4. ཐེག་པ་ཆེན་པོའི་བློ་སྦྱོང་དོན་བདུན་མའི་ཁྲིད་ཡིག་བྱང་ཆུབ་གཞུང་ལམ།
   - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོ།
-  sku: RDI-SS-05
   layers:
   - book_title
   - author
@@ -14,6 +15,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: RDI-SS-05
 web_metadata:
   title:
     en: The Collection of Treasured Practices of Mind Training and the Stages of the
